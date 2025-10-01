@@ -1,0 +1,20 @@
+[
+    {
+        "source_url" : "refs/heads/main/products.csv",
+        "sink_folder" : "AdventureWorks_Bronze_Orders",
+        "sink_file" : "AdventureWorks_orders.csv"
+    },
+    {
+         "source_url" : "refs/heads/main/employees.csv",
+        "sink_folder" : "AdventureWorks_Bronze_Customers",
+        "sink_file" : "AdventureWorks_customers.csv"
+
+    },
+    {
+        
+        "source_url" : "refs/heads/main/vendors.csv",
+        "sink_folder" : "AdventureWorks_Bronze_Products",
+        "sink_file" : "AdventureWorks_products.csv"
+
+    }
+]
