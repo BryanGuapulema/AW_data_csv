@@ -1,20 +1,20 @@
 [
     {
         "source_url" : "refs/heads/main/products.csv",
-        "sink_folder" : "AdventureWorks_Bronze_Orders",
-        "sink_file" : "AdventureWorks_orders.csv"
+        "sink_folder" : "AdventureWorks_Bronze_Products",
+        "sink_file" : "AdventureWorks_products.csv"
     },
     {
          "source_url" : "refs/heads/main/employees.csv",
-        "sink_folder" : "AdventureWorks_Bronze_Customers",
-        "sink_file" : "AdventureWorks_customers.csv"
+        "sink_folder" : "AdventureWorks_Bronze_Employees",
+        "sink_file" : "AdventureWorks_employees.csv"
 
     },
     {
         
         "source_url" : "refs/heads/main/vendors.csv",
-        "sink_folder" : "AdventureWorks_Bronze_Products",
-        "sink_file" : "AdventureWorks_products.csv"
+        "sink_folder" : "AdventureWorks_Bronze_Vendors",
+        "sink_file" : "AdventureWorks_vendors.csv"
 
     }
 ]
