@@ -16,5 +16,30 @@
         "sink_folder" : "AdventureWorks_Bronze_Vendors",
         "sink_file" : "AdventureWorks_vendors.csv"
 
+    },
+    {
+        "source_url" : "refs/heads/main/customers.csv",
+        "sink_folder" : "AdventureWorks_Bronze_Customers",
+        "sink_file" : "AdventureWorks_customers.csv"
+    },
+    {
+        "source_url" : "refs/heads/main/orders.csv",
+        "sink_folder" : "AdventureWorks_Bronze_Orders",
+        "sink_file" : "AdventureWorks_orders.csv"
+    },
+    {
+        "source_url" : "refs/heads/main/productcategories.csv",
+        "sink_folder" : "AdventureWorks_Bronze_ProductCategories",
+        "sink_file" : "AdventureWorks_productCategories.csv"
+    },
+    {
+        "source_url" : "refs/heads/main/productsubcategories.csv",
+        "sink_folder" : "AdventureWorks_Bronze_ProductSubcategories",
+        "sink_file" : "AdventureWorks_productSubcategories.csv"
+    },
+    {
+        "source_url" : "refs/heads/main/vendorproduct.csv",
+        "sink_folder" : "AdventureWorks_Bronze_VendorProduct",
+        "sink_file" : "AdventureWorks_vendorProduct.csv"
     }
 ]
